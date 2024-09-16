@@ -1,0 +1,7 @@
+package logic_1;
+
+public class less20value {
+    public boolean less20(int n) {
+        return n%20==19 || n%20==18;
+      }      
+}
